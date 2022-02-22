@@ -1,1 +1,0 @@
-# MobileViT-Refuse-Classification
